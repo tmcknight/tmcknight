@@ -11,6 +11,7 @@ I'm an **experienced** software developer/business analyst with over 15 years of
 
 [![Mastodon](./img/mastodon.svg)](https://masto.ai/@tmcknight "Mastodon: @tmcknight@masto.ai")
 [![Twitter](./img/twitter.svg)](https://twitter.com/thomasmcknight "Twitter: @thomasmcknight")
+[![LinkedIn](./img/linkedin.svg)](https://www.linkedin.com/in/mcknightt/ "LinkedIn: mcknightt")
 [![Email](./img/speechbubble.svg)](mailto:tom@tmcknight.dev "Email: tom@tmcknight.dev")
 
 ### [tmcknight.dev][website]
