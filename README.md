@@ -1,19 +1,18 @@
-### Hi there! 👋
+# Hi. 👋 I'm [Tom][website]</a>
 
-#### My name is Tom.
+### A Team Lead, Business Analyst Programmer in Ontario, Canada 🇨🇦
 
-💻 I work with...
+I'm an **experienced** software developer/business analyst with over 15 years of experience in a broad range of technologies. I'm **passionate** about implementing **innovative** software solutions for modern challenges. I strive to consistently produce **quality** work that my team can be proud of.
 
-- .NET Core, Blazor
-- SAP ABAP, IS-U
+💻 I primarily work with .NET Core, Blazor, and SAP ABAP (IS-U).  
+🌱 I'm currently learning how to be a great team lead.
 
-🔭 I'm exploring...
+### Let's connect!
 
-- how to be a great team lead
-- CI/CD pipelines
-- Indian food
+[![Mastodon](./img/mastodon.svg)](https://masto.ai/@tmcknight "Mastodon: @tmcknight@masto.ai")
+[![Twitter](./img/twitter.svg)](https://twitter.com/thomasmcknight "Twitter: @thomasmcknight")
+[![Email](./img/speechbubble.svg)](mailto:tom@tmcknight.dev "Email: tom@tmcknight.dev")
 
-🍺 Let's connect...
+### [tmcknight.dev][website]
 
-- Mastodon: [@tmcknight@masto.ai](https://masto.ai/@tmcknight)
-- Email: tom@tmcknight.dev
+[website]: https://tmcknight.dev
