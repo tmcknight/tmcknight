@@ -1,4 +1,4 @@
-# Hi. 👋 I'm [Tom][website]</a>
+# Hi. 👋 I'm [Tom][website]
 
 ### A Team Lead, Business Analyst Programmer in Ontario, Canada 🇨🇦
 
