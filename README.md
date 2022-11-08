@@ -7,13 +7,10 @@ I'm an **experienced** software developer/business analyst with over 15 years of
 💻 I primarily work with .NET Core, Blazor, and SAP ABAP (IS-U).  
 🌱 I'm currently learning how to be a great team lead.
 
+### [tmcknight.dev][website]
+
 ### Let's connect!
 
-[![Mastodon](./img/mastodon.svg)](https://masto.ai/@tmcknight "Mastodon: @tmcknight@masto.ai")
-[![Twitter](./img/twitter.svg)](https://twitter.com/thomasmcknight "Twitter: @thomasmcknight")
-[![LinkedIn](./img/linkedin.svg)](https://www.linkedin.com/in/mcknightt/ "LinkedIn: mcknightt")
-[![Email](./img/speechbubble.svg)](mailto:tom@tmcknight.dev "Email: tom@tmcknight.dev")
-
-### [tmcknight.dev][website]
+Email me at tom@tmcknight.dev.
 
 [website]: https://tmcknight.dev
